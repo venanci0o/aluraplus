@@ -20,4 +20,4 @@ Um site simples pra aprimorar habilidades em HTML e CSS, desenvolvendo um site p
 - ``HTML5``
 - ``CSS3``
 - ``Visual Code Studio``
-- - ``Início de responsividade para outras telas``
+- ``Início de responsividade para outras telas``
